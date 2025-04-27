@@ -1,5 +1,7 @@
 /*
 Solution for Exercise 1-1 from Intro to Java 13th Edition
+
+1.1 (Display three messages) Write a program that displays 'Welcome to Java, 'Welcome to Computer Science', and 'Programming is fun'.
 */
 
 public class Exercise01_01 {
