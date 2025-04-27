@@ -1,5 +1,13 @@
 /*
 Solution for Exercise 1-2 from Intro to Java 13th Edition
+
+*1.3 (Display a pattern) Write a program that displays the following pattern:
+
+    J     A     V     V    A     
+    J    A A     V   V    A A    
+J   J   AAAAA     V V    AAAAA   
+ J J   A     A     V    A     A
+ 
 */
 
 public class Exercise01_03 {
