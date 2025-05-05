@@ -11,6 +11,6 @@ public class Exercise01_12 {
     public static void main(String[] args) {
         System.out.println("A runner runs 24 miles in 1 hour, 40 minutes, and 35 seconds.");
         System.out.print("The average speed in kilometers per hour is: ");
-        System.out.println((24 * 1.6) / ((60 * 60 + 40 * 60 + 35) / 3600.0)); //3600 is the number of seconds in an hour
+        System.out.println((24 * 1.6) / (1 + 40 / 60.0 + 35 / 3600.0)); //3600 is the number of seconds in an hour
     }
 }
