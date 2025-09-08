@@ -37,7 +37,7 @@ public class Exercise02_12 {
         System.out.print("Enter acceleration: ");
         double acceleration = input.nextDouble();
 
-        double length = Math.pow(speed, 2) / (2 * acceleration);
+        double length = (speed * speed) / (2 * acceleration);
 
         System.out.println("The minimum runway length for this airplane is " + length + " meters");
     }
