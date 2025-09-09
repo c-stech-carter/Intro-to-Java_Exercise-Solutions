@@ -1,4 +1,6 @@
 /*
+Solution for Exercise 2-13 from Intro to Java 13th Edition
+
 **2.13 (Financial application: compound value) Suppose you save $100 each month into a savings account with an annual interest rate of 5%.
 Therefore, the monthly interest rate is 0.05 / 12 = 0.00417.
 
